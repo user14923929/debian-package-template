@@ -1,0 +1,10 @@
+Package: myapp
+Version: 1.0
+Architecture: amd64
+Maintainer: Your Name <you@example.com>
+Depends: libc6 (>= 2.17)
+Description: Short description (first line is short)
+ Long description. Each continuation line begins
+ with a space. An empty line = a paragraph (denoted by a period).
+ .
+ Another paragraph.
